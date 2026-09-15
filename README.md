@@ -82,7 +82,7 @@ No separate R scripts, raw dataset, or assignment question document are included
 ```text
 m2-inflation-analysis/
 │
-├── Report.pdf
+├── AssignmentDM.pdf
 │
 └── README.md
 ```
